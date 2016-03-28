@@ -1,0 +1,261 @@
+body{
+	margin:0px;
+}
+.container{
+	width:100% !important;
+	padding:0px !important;
+        height: 90% !important;
+
+}
+.main_container{
+	min-height: 85% !important;
+}
+.panel-default{
+	width:60%;
+	margin-top: 50px;
+	margin-left: 100px;
+.}
+.panel-heading{
+	background-color: #F6842C !important;
+}
+.input-group{
+	padding-top: 5px;
+}
+.checkbox{
+	padding-bottom: 10px;
+}
+.footer{
+	height:10%;
+	background-color: #F6842C;
+	bottom: 0;
+    width: 100%;
+   
+}
+.footer_text{
+	margin-top: 25px;
+	margin-left: 50px;
+
+}
+
+.form-group{
+	text-align:left;
+	margin-left: 50px;
+}
+.list-group{
+	
+	width:40%;
+	margin-left: 50px;
+}
+.header{
+	width:100%;
+	height:15%;
+	background-color: #F6F6F6;
+}
+#clients{
+	margin-left: 33px;
+	margin-top: -33px;
+}
+#client_details{
+	width:70%;
+	display:none;
+}
+#client_new{
+	width:75%;
+	display: none;
+}
+#name,#email,#phone,#address,#im{
+	margin-bottom:5px;
+}
+.table{
+	padding: 10px;
+}
+#imaginary_container{
+
+	float:right;
+	margin-top: -20px;
+}
+#status_options,#datepicker{
+	width:70%;
+}
+#text_area{
+	width: 60%;
+    margin-top: 10px;
+}
+.name{
+	display: inline-flex;
+}
+#form_group{
+	margin-top: 50px;
+	margin-bottom: 5px;
+}
+#input{
+	width:55%;
+	margin-top: 5px;
+}
+.control-label{
+	margin-top: 5px;
+}
+
+#status_options1,#datepicker,#datepicker4{
+	width:55%;
+	margin-top: 5px;
+}
+#datepicker3{
+	width:70%;
+}
+.form-control-static{
+	width:40%;
+}
+.btn-default{
+	margin-top: 5px;
+}
+#display_notes{
+	margin-top: 25px;
+	border:2px solid #F6F6F6;
+	border-radius: 5px;
+	width:60%;
+	margin-left: 50px;
+}
+#text_area{
+	
+}
+#input1,#datepicker1,#datepicker2{
+	width:50%;
+	margin-top: 5px;
+}
+#options{
+display: none;
+}
+#failed_options{
+	margin-top: 50px;
+	
+}
+#failed_textarea{
+	width:30%;
+	margin-top: 10px;
+	display: none;
+}
+#status_options2{
+	width:40%;
+}
+.col-sm-5{
+	width: 60% !important;
+    margin-left: -14px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+#budget_option{
+	width: 45% !important;
+    margin-left: -3px;
+    margin-top: 5px;
+    padding:0px;
+}
+#im_option{
+	width: 45% !important;
+    margin-left: -2px;
+    margin-top: 5px;
+    padding:0px;
+	margin-bottom: 0px;
+	margin-top: 0px;
+}
+#im{
+	margin-left: 14px;
+	margin-bottom: 0px;
+	
+}
+#im_input{
+	margin-top: 0px;
+}
+#file{
+	margin-top: 5px;
+}
+#new_notesdata{
+	width: 29%;
+    margin-left: 65px;
+	margin-top: 20px;
+	border:2px solid #F6F6F6;
+	
+}
+
+#input2{
+	margin-top: 5px;
+	width:85%;
+	margin-left: 50px;
+}
+#priority_options1{
+
+	width:85%;
+	margin-left: 50px;
+}
+#budget1{
+	width: 86%;
+    margin-left: 47px;
+}
+#budget_option1 {
+    width: 40% !important;
+    margin-left: 13px;
+    margin-top: 5px;
+    padding: 0px;
+}
+#pagination_count{
+	padding: 2px 5px 2px 5px;
+	margin: 2px;
+	border: 1px solid #AAAADD;
+
+}
+
+#display_results {
+color:#222222; 
+padding:5px;
+background: #eeeeee;
+
+}
+.pagination_num{
+	text-align: center;
+
+}
+#link_page{
+ text-decoration: none;
+}
+#datepicker3{
+width:100%;
+}
+#imaginary_container1{
+	margin-top: -5px;
+}
+
+#file_handle{
+	margin-top:5px;
+}
+.logout{
+	float:right;
+	margin: 2%;
+	
+}
+#email1{
+	margin-left: 47px;
+	border-radius: 5px;
+}
+#register{
+	margin-left: 28%;
+	margin-top: 10px;
+}
+.notify_red {
+	color:#FF0000;
+}
+#pass{
+    margin-left: 47px;
+    border-radius: 5px;
+}
+#passc{
+	margin-left: -2px;
+    margin-right: 48px;
+    border-radius: 5px;
+}
+#register1{
+	margin-left: 8%;
+	margin-top: 10px;
+}
+.notify_text{
+	text-align: center;
+}
